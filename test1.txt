@@ -1,0 +1,12 @@
+ Volume in drive C is OSDisk
+ Volume Serial Number is 5E58-713F
+
+ Directory of C:\Users\rissinghal\Desktop\javaprojects
+
+09/10/2018  01:07 PM    <DIR>          .
+09/10/2018  01:07 PM    <DIR>          ..
+09/10/2018  12:00 PM               666 Hello.class
+09/10/2018  11:50 AM               137 Hello.java
+09/10/2018  01:07 PM                 0 test1.txt
+               3 File(s)            803 bytes
+               2 Dir(s)  429,672,886,272 bytes free
